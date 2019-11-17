@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) Jatinder Kumar Chaurasia
+ */
+
 package com.jkc.github_fetcher.controllers;
 
 import com.jkc.github_fetcher.model.GithubModel;

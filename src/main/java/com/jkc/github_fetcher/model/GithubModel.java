@@ -1,8 +1,11 @@
+/*
+ * Copyright (c) Jatinder Kumar Chaurasia
+ */
+
 package com.jkc.github_fetcher.model;
 
 import java.util.Date;
 
-@SuppressWarnings("all")
 public class GithubModel {
     private Long id;
     private String login;
